@@ -1,0 +1,35 @@
+td {
+   border: 2px;
+   border-color: blue;
+   background-color:black;
+   cursor: pointer;
+   height: 100px;
+   width: 100px;
+}
+
+.button {
+    border: none;
+    display: inline-block;
+    border-color: black;
+    background-color: royalblue; 
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    font-size: 25px;
+ }
+
+ .selected{
+     border:  2px;
+     text-align: center;
+     font-size: 30px;
+     background-color: yellowgreen;
+     height: 100px;
+     width: 100px;
+ }
+
+ .winnerDisplay{
+     text-align: center;
+     border: 2px black;
+     font: 50px bold comic;
+     background-color: firebrick;
+ }
